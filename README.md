@@ -24,3 +24,9 @@ Countdown
 用于选择日期
 
 本人做了一层input封装
+
+
+
+## InputNumber 计数器
+
+仅允许输入标准的数字值，可定义范围
